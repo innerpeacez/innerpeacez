@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning Monitor,Paas
+- 🌱 I’m currently learning Monitor,PaaS
 - 📫 How to reach me: WeChat -> cGluZ196aHdfcG9uZw==
 
 #### Github State
