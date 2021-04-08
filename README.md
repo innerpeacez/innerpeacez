@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 🌱 I’m currently learning Monitor,Paas
-- 📫 How to reach me: ...
+- 📫 How to reach me: WeChat -> cGluZ196aHdfcG9uZw==
 
 #### Github State
 ![innerpeacez's GitHub stats](https://github-readme-stats.vercel.app/api?username=innerpeacez&theme=buefy&show_icons=true)
