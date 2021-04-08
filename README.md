@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi I'm innerpeacez 👋
 
 <!--
 **innerpeacez/innerpeacez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🌱 I’m currently learning Monitor,Paas
+- 📫 How to reach me: ...
+
+#### Github State
+![innerpeacez's GitHub stats](https://github-readme-stats.vercel.app/api?username=innerpeacez&theme=buefy&show_icons=true)
