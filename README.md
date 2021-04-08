@@ -19,4 +19,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: WeChat -> cGluZ196aHdfcG9uZw==
 
 #### Github State
-![innerpeacez's GitHub stats](https://github-readme-stats.vercel.app/api?username=innerpeacez&theme=buefy&show_icons=true)
+![innerpeacez's GitHub stats](https://github-readme-stats.vercel.app/api?username=innerpeacez&theme=buefy&show_icons=true) 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=innerpeacez&layout=compact)
