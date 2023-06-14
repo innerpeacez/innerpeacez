@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning Monitor,PaaS
+- 🌱 I’m currently focusing on Observability,PaaS.
 - 📫 How to reach me: WeChat -> cGluZ196aHdfcG9uZw==
 
 #### Github State
