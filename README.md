@@ -15,8 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+- 🔭 I’m currently working on Hangzhou.
 - 🌱 I’m currently focusing on Observability, PaaS.
 - 📫 How to reach me: WeChat -> cGluZ196aHdfcG9uZw==
 
 #### Github State
-![innerpeacez's GitHub stats](https://github-readme-stats.vercel.app/api?username=innerpeacez&theme=buefy&show_icons=true) 
+
+![innerpeacez's GitHub stats](https://github-readme-stats.vercel.app/api?username=innerpeacez&theme=buefy&show_icons=true)
+
+#### :zap: Recent Activity
+
+<!--START_SECTION:activity-->
