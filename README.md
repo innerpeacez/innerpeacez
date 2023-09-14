@@ -26,3 +26,9 @@ Here are some ideas to get you started:
 #### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
+1. 💪 Opened PR [#11187](https://github.com/apache/skywalking/pull/11187) in [apache/skywalking](https://github.com/apache/skywalking)
+2. 💪 Opened PR [#11184](https://github.com/apache/skywalking/pull/11184) in [apache/skywalking](https://github.com/apache/skywalking)
+3. 💪 Opened PR [#128](https://github.com/apache/skywalking-kubernetes/pull/128) in [apache/skywalking-kubernetes](https://github.com/apache/skywalking-kubernetes)
+4. 🎉 Merged PR [#127](https://github.com/apache/skywalking-kubernetes/pull/127) in [apache/skywalking-kubernetes](https://github.com/apache/skywalking-kubernetes)
+5. 🗣 Commented on [#127](https://github.com/apache/skywalking-kubernetes/pull/127#issuecomment-1649566565) in [apache/skywalking-kubernetes](https://github.com/apache/skywalking-kubernetes)
+<!--END_SECTION:activity-->
