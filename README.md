@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on Hangzhou.
-- 🌱 I’m currently focusing on Observability, PaaS.
+- 🌱 I’m currently focusing on Observability, DevOps, PaaS.
 - 📫 How to reach me: WeChat -> cGluZ196aHdfcG9uZw==
 
 #### Github State
