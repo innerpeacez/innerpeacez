@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 #### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#139](https://github.com/apache/skywalking-helm/pull/139) in [apache/skywalking-helm](https://github.com/apache/skywalking-helm)
-2. 💪 Opened PR [#137](https://github.com/apache/skywalking-helm/pull/137) in [apache/skywalking-helm](https://github.com/apache/skywalking-helm)
-3. 💪 Opened PR [#132](https://github.com/apache/skywalking-helm/pull/132) in [apache/skywalking-helm](https://github.com/apache/skywalking-helm)
-4. 💪 Opened PR [#11184](https://github.com/apache/skywalking/pull/11184) in [apache/skywalking](https://github.com/apache/skywalking)
-5. 🎉 Merged PR [#127](https://github.com/apache/skywalking-kubernetes/pull/127) in [apache/skywalking-kubernetes](https://github.com/apache/skywalking-kubernetes)
+1. 🗣 Commented on [#5686](https://github.com/louislam/uptime-kuma/pull/5686#issuecomment-2719505444) in [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma)
+2. 🗣 Commented on [#5686](https://github.com/louislam/uptime-kuma/pull/5686#issuecomment-2712344404) in [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma)
+3. 🗣 Commented on [#5686](https://github.com/louislam/uptime-kuma/pull/5686#issuecomment-2712335830) in [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma)
+4. 🗣 Commented on [#5686](https://github.com/louislam/uptime-kuma/pull/5686#issuecomment-2709965984) in [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma)
+5. 🗣 Commented on [#5686](https://github.com/louislam/uptime-kuma/pull/5686#issuecomment-2709630766) in [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma)
 <!--END_SECTION:activity-->
