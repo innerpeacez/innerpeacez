@@ -26,8 +26,8 @@ Here are some ideas to get you started:
 #### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#83](https://github.com/UfoMiao/zcf/pull/83) in [UfoMiao/zcf](https://github.com/UfoMiao/zcf)
-2. 💪 Opened PR [#82](https://github.com/UfoMiao/zcf/pull/82) in [UfoMiao/zcf](https://github.com/UfoMiao/zcf)
+1. 💪 Opened PR [#83](undefined) in [UfoMiao/zcf](https://github.com/UfoMiao/zcf)
+2. 💪 Opened PR [#82](undefined) in [UfoMiao/zcf](https://github.com/UfoMiao/zcf)
 3. 🗣 Commented on [#5686](https://github.com/louislam/uptime-kuma/pull/5686#issuecomment-2712335830) in [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma)
 4. 🗣 Commented on [#5686](https://github.com/louislam/uptime-kuma/pull/5686#issuecomment-2709965984) in [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma)
 5. 🗣 Commented on [#5686](https://github.com/louislam/uptime-kuma/pull/5686#issuecomment-2709630766) in [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma)
